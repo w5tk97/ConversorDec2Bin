@@ -20,7 +20,9 @@
 
 :+1:
 
-[!NOTE]
+ [!NOTE]
+ Useful information that users should know, even when skimming content.
+
  una alerta
 
  una línea horizontal
