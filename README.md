@@ -20,8 +20,8 @@
 
 :+1:
 
- [!NOTE]
- Useful information that users should know, even when skimming content.
+ >[!NOTE]
+ >Useful information that users should know, even when skimming content.
 
  una alerta
 
